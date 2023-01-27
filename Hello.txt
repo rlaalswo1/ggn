@@ -4,3 +4,8 @@ ctrl ~
 베시셀에서 문제 ctrl c를함 입력이 x일 때
 git init 은 이 디렉트리 깃에서 관리
 git add 파일 명 U에서 A
+M일 때 다시 6번 하면 A됨
+화살표는 내가 전에 친거 보여줌
+git commit -m "내 처번째 커밋"
+git config --global user.name
+git config --global user.email
