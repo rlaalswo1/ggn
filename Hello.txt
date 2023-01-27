@@ -1,0 +1,6 @@
+아무
+ctrl s 는 저장
+ctrl ~
+베시셀에서 문제 ctrl c를함 입력이 x일 때
+git init 은 이 디렉트리 깃에서 관리
+git add 파일 명 U에서 A
